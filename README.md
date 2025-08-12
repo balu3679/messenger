@@ -1,6 +1,6 @@
 # Messenger
 
-A Flutter-based multi-user chat application that supports real-time messaging using Firebase Firestore and Authentication. This app allows users to sign in with email/password or Google and engage in real-time chat with other users.
+A Flutter-based multi-user chat application that supports real-time messaging using Firebase Firestore and Authentication. This app allows users to sign in with email/password and engage in real-time chat with other users.
 
 ## Getting Started
 
